@@ -119,3 +119,5 @@
 [20:53:41] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1mAutoSaving[m
 [20:53:41] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
 [20:53:42] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1mAutoSave Complete[m
+[21:24:01] [Server thread/INFO]: CONSOLE: Forcing save..[m
+[21:24:02] [Server thread/INFO]: CONSOLE: Save complete.[m
