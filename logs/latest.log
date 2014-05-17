@@ -1,0 +1,121 @@
+[01:01:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3417ms behind, skipping 68 tick(s)
+[01:06:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2483ms behind, skipping 49 tick(s)
+[01:26:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
+[02:01:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2326ms behind, skipping 46 tick(s)
+[03:21:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5357ms behind, skipping 107 tick(s)
+[04:21:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2492ms behind, skipping 49 tick(s)
+[06:41:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[06:42:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3627ms behind, skipping 72 tick(s)
+[08:26:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2116ms behind, skipping 42 tick(s)
+[13:06:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5145ms behind, skipping 102 tick(s)
+[17:22:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2678ms behind, skipping 53 tick(s)
+[20:26:39] [Server thread/INFO]: raphael[/77.179.216.105:37242] logged in with entity id 413 at ([world] 26.699999988079075, 64.0, 280.69999998807907)
+[20:26:44] [Server thread/INFO]: raphael lost connection: Disconnected
+[20:26:44] [Server thread/INFO]: raphael left the game.
+[20:28:09] [Server thread/INFO]: raphael[/77.179.216.105:37273] logged in with entity id 482 at ([world] 26.699999988079075, 64.0, 280.69999998807907)
+[20:28:19] [Server thread/INFO]: raphael issued server command: /afk
+[20:29:22] [Server thread/INFO]: raphael lost connection: Disconnected
+[20:29:22] [Server thread/INFO]: raphael left the game.
+[20:42:20] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.1.2
+[20:42:20] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[20:42:20] [Server thread/INFO]: [AuthMe] Loading AuthMe v3.3.6
+[20:42:20] [Server thread/INFO]: [AutoSaveWorld] Loading AutoSaveWorld v4.13
+[20:42:20] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.3
+[20:42:20] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[20:42:20] [Server thread/INFO]: [Vault][Permission] PermissionsBukkit hooked.
+[20:42:20] [Server thread/INFO]: [Vault] [Vault][Permission] PermissionsBukkit found: Waiting
+[20:42:21] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[20:42:21] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[20:42:21] [Server thread/INFO]: [AutoSaveWorld] Enabling AutoSaveWorld v4.13
+[20:42:21] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.1.2
+[20:42:21] [Server thread/INFO]: worlds.world
+[20:42:21] [Server thread/INFO]: worlds.world_nether
+[20:42:21] [Server thread/INFO]: worlds.world_the_end
+[20:42:21] [Server thread/INFO]: [MultiWorld] v5.1.2 enabled.
+[20:42:21] [Server thread/INFO]: [AuthMe] Enabling AuthMe v3.3.6
+[20:42:21] [Server thread/INFO]: [AuthMe] Loading Configuration File...
+[20:42:21] [Server thread/INFO]: [AuthMe] Set Language: en
+[20:42:21] [Server thread/ERROR]: Could not find messages_en.yml, creating new one...
+[20:42:22] [Server thread/ERROR]: Could not find players.yml, creating new one...
+[20:42:22] [Server thread/ERROR]: Could not find otheraccounts.yml, creating new one...
+[20:42:22] [Server thread/INFO]: [AuthMe] Vault plugin detected, hook with PermissionsBukkit system
+[20:42:22] [Server thread/ERROR]: Could not find spout.yml, creating new one...
+[20:42:22] [Server thread/INFO]: [AuthMe] LICENSE : This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com
+[20:42:23] [Server thread/INFO]: [AuthMe] Authme 3.3.6 enabled
+[20:42:23] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.3
+[20:42:23] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[20:42:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:42:24] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[20:42:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4200ms behind, skipping 84 tick(s)
+[20:42:28] [pool-3-thread-4/INFO]: [Vault] Checking for Updates:
+[20:42:28] [pool-3-thread-4/INFO]: [Vault] No new version available
+[20:43:34] [Server thread/ERROR]: Could not find spawn.yml, creating new one...
+[20:43:34] [Server thread/INFO]: raphael[/77.179.216.105:37778] logged in with entity id 948 at ([world] 26.69999998807907, 64.0, 280.69999998807907)
+[20:43:43] [Server thread/INFO]: [AuthMe] raphael registered 77.179.216.105
+[20:45:57] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1mAutoSaving[m
+[20:45:57] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[20:45:57] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1mAutoSave Complete[m
+[20:47:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2512ms behind, skipping 50 tick(s)
+[20:51:00] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[20:51:11] [Server thread/INFO]: worlds.world
+[20:51:11] [Server thread/INFO]: worlds.world_nether
+[20:51:11] [Server thread/INFO]: worlds.world_the_end
+[20:51:11] [Server thread/INFO]: [0;34;1m[[0;31;22mMultiWorld[0;34;1m] [0;36;22m[0;32;1mReloaded multiworld configuration[m
+[20:51:27] [Server thread/INFO]: raphael issued server command: /mw
+[20:51:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
+[20:52:01] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[20:52:06] [Server thread/ERROR]: [PermissionsBukkit] Your configuration is invalid! Take a look at line(s): 37
+[20:52:06] [Server thread/INFO]: [PermissionsBukkit] Saved the full error message to plugins/PermissionsBukkit/config_error.txt
+[20:52:06] [Server thread/INFO]: [PermissionsBukkit] Saved a backup of your configuration to plugins/PermissionsBukkit/config_backup.yml
+[20:52:06] [Server thread/INFO]: [0;31;1mYour configuration is invalid, see the console for details.[m
+[20:52:13] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.3
+[20:52:13] [Server thread/INFO]: [Vault][Permission] PermissionsBukkit un-hooked.
+[20:52:13] [Server thread/INFO]: [PermissionsBukkit] Disabled successfully, 1 online players unregistered
+[20:52:13] [Server thread/INFO]: [AutoSaveWorld] Disabling AutoSaveWorld v4.13
+[20:52:13] [Server thread/INFO]: [0;34;1mAutoSaving[m
+[20:52:13] [Server thread/INFO]: [0;34;1mAutoSave Complete[m
+[20:52:17] [Server thread/INFO]: [AuthMe] Disabling AuthMe v3.3.6
+[20:52:17] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[20:52:17] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.1.2
+[20:52:17] [Server thread/INFO]: [MultiWorld] Disabled.
+[20:52:18] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.1.2
+[20:52:18] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[20:52:18] [Server thread/INFO]: [AuthMe] Loading AuthMe v3.3.6
+[20:52:18] [Server thread/INFO]: [AutoSaveWorld] Loading AutoSaveWorld v4.13
+[20:52:18] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.3
+[20:52:18] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[20:52:18] [Server thread/INFO]: [Vault][Permission] PermissionsBukkit hooked.
+[20:52:18] [Server thread/INFO]: [Vault] [Vault][Permission] PermissionsBukkit found: Waiting
+[20:52:18] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[20:52:18] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[20:52:18] [Server thread/INFO]: [AutoSaveWorld] Enabling AutoSaveWorld v4.13
+[20:52:19] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.1.2
+[20:52:20] [Server thread/INFO]: worlds.world
+[20:52:20] [Server thread/INFO]: worlds.world_nether
+[20:52:20] [Server thread/INFO]: worlds.world_the_end
+[20:52:20] [Server thread/INFO]: [MultiWorld] v5.1.2 enabled.
+[20:52:20] [Server thread/INFO]: [AuthMe] Enabling AuthMe v3.3.6
+[20:52:20] [Server thread/INFO]: [AuthMe] Loading Configuration File...
+[20:52:20] [Server thread/INFO]: [AuthMe] Set Language: en
+[20:52:25] [Server thread/INFO]: [AuthMe] Vault plugin detected, hook with PermissionsBukkit system
+[20:52:25] [Server thread/INFO]: [AuthMe] LICENSE : This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com
+[20:52:25] [Server thread/INFO]: [AuthMe] Authme 3.3.6 enabled
+[20:52:26] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.3
+[20:52:26] [Server thread/ERROR]: [PermissionsBukkit] Your configuration is invalid! Take a look at line(s): 37
+[20:52:26] [Server thread/INFO]: [PermissionsBukkit] Saved the full error message to plugins/PermissionsBukkit/config_error.txt
+[20:52:26] [Server thread/INFO]: [PermissionsBukkit] Saved a backup of your configuration to plugins/PermissionsBukkit/config_backup.yml
+[20:52:26] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully, 1 online players registered
+[20:52:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:52:26] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[20:52:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13022ms behind, skipping 260 tick(s)
+[20:52:27] [pool-3-thread-8/INFO]: [Vault] Checking for Updates:
+[20:52:27] [pool-3-thread-8/INFO]: [Vault] No new version available
+[20:52:51] [Server thread/INFO]: [AuthMe] raphael logged in!
+[20:52:59] [Server thread/INFO]: raphael issued server command: /mw
+[20:53:23] [Server thread/INFO]: CONSOLE: Forcing save..[m
+[20:53:23] [Server thread/INFO]: CONSOLE: Save complete.[m
+[20:53:41] [Server thread/INFO]: raphael lost connection: Disconnected
+[20:53:41] [Server thread/INFO]: raphael left the game.
+[20:53:41] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1mAutoSaving[m
+[20:53:41] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[20:53:42] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1mAutoSave Complete[m
