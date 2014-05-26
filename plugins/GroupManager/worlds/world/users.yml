@@ -1,0 +1,11 @@
+users:
+ 
+  raphael:
+    group: Owner
+    subgroups: []
+    permissions: []
+  Jordissimo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
